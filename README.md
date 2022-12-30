@@ -1,11 +1,11 @@
 ### Bruno Brill Thums
 
-- :computer: Estudante ávido no último semestre de engenharia da computação
-- Maratonando cursos:
+- :mortar_board: Estudante ávido no último semestre de engenharia da computação
+- :book: Maratonando cursos:
   - Orange Tech + | BackEnd
   - Novo Pentest Profissional 2022
-- Residência: Lajeado - RS, Brasil
-- Contato: +55 (51) 99930-0732
+- :house: Residência: Lajeado - RS, Brasil
+- :calling: Contato: +55 (51) 99930-0732
 
 ##
 
