@@ -4,8 +4,8 @@
 - :book: Maratonando cursos:
   - Orange Tech + | BackEnd
   - Novo Pentest Profissional 2022
-- :house: Residência: Lajeado - RS, Brasil
-- :calling: Contato: +55 (51) 99930-0732
+- :house: Lajeado - RS, Brasil
+- :calling: +55 (51) 99930-0732
 
 ##
 
