@@ -1,6 +1,6 @@
 ### Bruno Brill Thums
 
-- Estudante ávido no último semestre de engenharia da computação
+- :computer: Estudante ávido no último semestre de engenharia da computação
 - Maratonando cursos:
   - Orange Tech + | BackEnd
   - Novo Pentest Profissional 2022
