@@ -11,9 +11,8 @@
 
 <div align="center" style="display: inline_block">
   <a href="https://github.com/BrunoThums">
-    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
   <img height="180em" src="https://git-stats-bbt.vercel.app/api?username=BrunoThums&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoThums&layout=compact&langs_count=7&theme=darcula"/>
+  <img height="180em" src="https://git-stats-bbt.vercel.app/api/top-langs/?username=BrunoThums&layout=compact&langs_count=7&theme=darcula"/>
 </div>
 
 <div>
