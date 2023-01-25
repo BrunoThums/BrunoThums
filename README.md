@@ -2,7 +2,7 @@
 
 - :mortar_board: Estudante ávido no último semestre de engenharia da computação
 - :book: Maratonando cursos:
-  - Orange Tech + | BackEnd
+  - Comunidade Web Automation (CWA)
   - Novo Pentest Profissional 2022
 - :house: Lajeado - RS, Brasil
 - :calling: +55 (51) 99930-0732
