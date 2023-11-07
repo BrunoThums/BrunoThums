@@ -3,11 +3,23 @@
 - :mortar_board: Graduated in Computer Engineering
 - :unlock: Pentester at MaxProtection
 - :book: Completed:
-  - Pentest Professional - DESEC
+  #### Hacking
+  - Novo Pentest Professional 2022 - DESEC
   - Windows Escalation Privileges for Begginers - TCM
   - Linux Escalation Privileges for Begginers - TCM
+  - Mobile Application Penetration Testing - TCM
+  - Practical Web Application Security and Testing - TCM
+  - Web API Exploitation - SEC4US
+  - API Penetration Testing - APISEC
+  #### Programming
+  - Linux do Zero - DIO
+  - Orange Tech + | BackEnd - DIO
+  - Redhat OpenShift I: Containers & Kubernetes (DO180) - Redhat
+  - Web Scraping in Python BeautifulSoup, Selenium & Scrapy 2022 - Udemy
+  #### Other
+  - Aprenda Unity - 2D Definitivo - Udemy
+  - Curso Google Planilhas Módulo Avançado - Univates
 
-##
 
 <div align="center" style="display: inline_block">
   <a href="https://github.com/BrunoThums">
