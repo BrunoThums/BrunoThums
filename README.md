@@ -1,7 +1,7 @@
 ### Welcome!
 
 - :mortar_board: Graduated in Computer Engineering
-- :unlock: Working with cibersecurity
+- :unlock: Working with cybersecurity
 - :books: Studying a bit of everything in IT
 
 <div align="center" style="display: inline_block">
