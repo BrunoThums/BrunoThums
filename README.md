@@ -1,6 +1,8 @@
 ### Welcome!
 
 - :mortar_board: Graduated in Computer Engineering
+- :unlock: Working with cibersecurity
+- :books: Studying a bit of everything in IT
 
 <div align="center" style="display: inline_block">
   <a href="https://github.com/BrunoThums">
